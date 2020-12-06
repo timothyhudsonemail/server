@@ -1,0 +1,8 @@
+# Server
+
+This project is a full stack chat application consisting of a client, a server (this application), and a database, which facilitate online conversation between 2 users
+
+## Notes
+
+Built full stack application from scratch using React, Express, and PSQL.
+Deployed via Heroku and Vercel (client)
