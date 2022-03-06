@@ -18,7 +18,7 @@ class DB {
     this.db = knex({
       client: "pg",
       connection:
-        "postgres://hikuazdmpywvwf:44cec69642a193a26b8215c3b682ec59f8e8ae938d928839bf6fa9fc15222b38@ec2-3-95-87-221.compute-1.amazonaws.com:5432/d9njlcuunttqkl",
+        "postgres://flyycwalyodrpf:820a03ce781ea8ca5027fbec358eed6f8c5d6f1e94de1d78db1882060136e69c@ec2-54-159-175-113.compute-1.amazonaws.com:5432/d8mvhacglih0vn",
     });
   }
 
