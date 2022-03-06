@@ -23,7 +23,7 @@ class DB {
   }
 
   getAll() {
-    return this.db("newtable").select("*");
+    return this.db("msgtable").select("*");
   }
   getAll2(id) {
     return this.db("msgtable").where(id).select("*");
